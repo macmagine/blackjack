@@ -1,5 +1,7 @@
 # blackjack card game
 
+this is a console game, which does NOT have any user GUI. We will add GUI part in the future
+
 ## player document
 [how to play this game](doc/blackjack.md)
 
