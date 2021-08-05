@@ -142,7 +142,7 @@ class Dealer(Player):
 
 class Game:
     LOG_FORMAT = "%(asctime)s %(levelname)8s - %(message)s"
-    logging.basicConfig(filename=r"C:\Users\macma\workspace\python1MelyndaSummer2021\blackjack.log", level=logging.DEBUG, format=LOG_FORMAT)
+    logging.basicConfig(filename="blackjack.log", level=logging.DEBUG, format=LOG_FORMAT)
 
     logger = logging.getLogger("Huaxia")
 
